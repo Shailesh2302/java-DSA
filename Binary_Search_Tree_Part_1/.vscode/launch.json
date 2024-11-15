@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learsizeabout possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Root_To_Leaf_Paths",
+            "request": "launch",
+            "mainClass": "Root_To_Leaf_Paths",
+            "projectName": "Binary_Search_Tree_Part_1_dc6e27b3"
+        },
+        {
+            "type": "java",
+            "name": "Build_A_BST",
+            "request": "launch",
+            "mainClass": "Build_A_BST",
+            "projectName": "Binary_Search_Tree_Part_1_dc6e27b3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BTS_Search",
+            "request": "launch",
+            "mainClass": "BTS_Search",
+            "projectName": "Binary_Search_Tree_Part_1_b7e8f04d"
+        },
+        {
+            "type": "java",
+            "name": "Build_A_BST",
+            "request": "launch",
+            "mainClass": "Build_A_BST",
+            "projectName": "Binary_Search_Tree_Part_1_b7e8f04d"
+        },
+        {
+            "type": "java",
+            "name": "Delete_Node",
+            "request": "launch",
+            "mainClass": "Delete_Node",
+            "projectName": "Binary_Search_Tree_Part_1_b7e8f04d"
+        },
+        {
+            "type": "java",
+            "name": "Mirror_a_BST",
+            "request": "launch",
+            "mainClass": "Mirror_a_BST",
+            "projectName": "Binary_Search_Tree_Part_1_b7e8f04d"
+        },
+        {
+            "type": "java",
+            "name": "Print_In_Range",
+            "request": "launch",
+            "mainClass": "Print_In_Range",
+            "projectName": "Binary_Search_Tree_Part_1_b7e8f04d"
+        },
+        {
+            "type": "java",
+            "name": "Root_To_Leaf_Paths",
+            "request": "launch",
+            "mainClass": "Root_To_Leaf_Paths",
+            "projectName": "Binary_Search_Tree_Part_1_b7e8f04d"
+        },
+        {
+            "type": "java",
+            "name": "Validate_BTS",
+            "request": "launch",
+            "mainClass": "Validate_BTS",
+            "projectName": "Binary_Search_Tree_Part_1_b7e8f04d"
+        }
+    ]
+}
